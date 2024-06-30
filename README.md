@@ -8,5 +8,5 @@
 
 <!--
 # My GitHub Stats
-![Arivoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=arivolispark&hide=ranks&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
+![Arivoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=arivolispark&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
 -->
